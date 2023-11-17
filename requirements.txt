@@ -1,0 +1,14 @@
+djangorestframework
+psycopg2-binary
+Pillow
+drf-yasg
+django-filter
+python-dotenv # скрытие данных
+redis # NoSQL БД - брокер сообщений
+celery # обработчик задач/сообщений
+python-slugify # для генерации slug
+django-cors-headers # для настройки CORS
+djoser # для работы с пользователем
+djangorestframework-simplejwt # для работы с токенами
+django
+coreapi
